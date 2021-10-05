@@ -11,5 +11,5 @@ jobs:
       - name: initial labeling
         uses: andymckay/labeler@master
         with:
-          add-labels: "Needs confirmation."
+          add-labels: "Necesita confirmación"
           ignore-if-labeled: true

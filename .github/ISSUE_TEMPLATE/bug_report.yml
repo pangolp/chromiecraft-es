@@ -146,7 +146,7 @@ body:
     attributes:
       label: "Personalizaciones"
       value: |
-        None
+        Ninguna
     validations:
       required: false
   - type: textarea
