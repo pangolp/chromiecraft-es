@@ -1,8 +1,8 @@
-##### OPERATING SYSTEM:
+##### SISTEMA OPERATIVO:
 
 Ubuntu 20.04
 
-##### MODULES:
+##### MÓDULOS:
 
 - [mod-ah-bot](https://github.com/azerothcore/mod-ah-bot)
 - [mod-cfbg](https://github.com/azerothcore/mod-cfbg)
@@ -22,10 +22,10 @@ Ubuntu 20.04
 - [lua-send-and-bind](https://github.com/55Honey/Acore_SendAndBind)
 - [lua-Zonecheck](https://github.com/55Honey/acore_Zonecheck)
 
-##### OTHER CUSTOMIZATIONS:
+##### OTRAS PERSONALIZACIONES:
 
 None.
 
-##### SERVER:
+##### SERVIDOR:
 
 ChromieCraft
