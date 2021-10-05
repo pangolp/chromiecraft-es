@@ -1,6 +1,6 @@
 # ChromieCraft.com Bug Tracker (En español)
 
-Este repositorio, esta creado con la intensión de colaborar con la comunidad de **AzerothCore** y **ChromieCraft**, en el reporte de errores, pero en español. Debido a que muchas personas, quizás no manejan muy bien el idioma y si bien existen traductores, la idea, es debatir los diferentes reportes que se vayan surgiendo, y en caso de determinar fallos, reportarlos de manera oficial en el repositorio de **AzerothCore (en ingles)**.
+Este repositorio, esta creado con la intención de colaborar con la comunidad de **AzerothCore** y **ChromieCraft**, en el reporte de errores, pero en español. Debido a que muchas personas, quizás no manejan muy bien el idioma y si bien existen traductores, la idea, es debatir los diferentes reportes que se vayan surgiendo, y en caso de determinar fallos, reportarlos de manera oficial en el repositorio de **AzerothCore (en ingles)**.
 
 # Antes de crear un reporte
 
